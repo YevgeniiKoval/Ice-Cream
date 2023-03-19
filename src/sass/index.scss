@@ -1,0 +1,21 @@
+@import "./utils/variables";
+@import "./utils/visually-hidden";
+
+@import './base/common';
+@import "./base/container";
+
+@import "./components/backdrop";
+@import "./components/modal-buy";
+@import "./components/modal-ingredient";
+@import "./components/read-more-modal";
+@import "./components/modal-location";
+@import "./components/modal-franchise";
+@import "./components/bcg-img";
+
+@import "./layout/header";
+@import "./layout/hero";
+@import "./layout/products";
+@import "./layout/about-advantages";
+@import "./layout/gallery-review";
+@import "./layout/contacts";
+@import "./layout/footer";
